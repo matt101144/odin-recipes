@@ -6,6 +6,12 @@
     font-weight: bold;
     font-family: sans-serif;
 }
-
-
+.recipe-list {
+    color: rgba(0, 0, 0, 0.952);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+}
+.link-styled{
+    font-size: 19px;
+}
 
