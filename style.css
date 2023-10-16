@@ -25,3 +25,24 @@
     background-color: rgb(165, 148, 148);
     color: black;
 }
+#cuban-title {
+    background-color: rgb(90, 90, 226);
+    color: gold;
+    font-size: 38px;
+}
+.cuban-subtitles{
+    color: rgb(143, 8, 8);
+    font-size: 28px;
+}
+.buffalo-title {
+    color: blueviolet;
+    background-color: black;
+    font-size: 38px;
+
+}
+.buffalo-title1 {
+    color: greenyellow;
+    background-color: black;
+    font-size: 28px;
+
+}
