@@ -14,4 +14,14 @@
 .link-styled{
     font-size: 19px;
 }
-
+.title1 {
+    background-color: rgb(165, 148, 148);
+    color: black;
+    font-size: 38px;
+    
+}
+.title-2 {
+    font-size: 30px;
+    background-color: rgb(165, 148, 148);
+    color: black;
+}
