@@ -46,3 +46,11 @@
     font-size: 28px;
 
 }
+.list-container{
+    display: flex;
+    
+}
+.burger-image{
+    height: 750px;
+    width: 750px;
+}
