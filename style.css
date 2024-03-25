@@ -3,6 +3,10 @@
 *::after{
     box-sizing: border-box;
 }
+body{
+    background-color: rgba(109, 119, 212, 0.788);
+}
+
 #title {
     background-color: yellow;
     color: black;
