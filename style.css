@@ -1,3 +1,8 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
 #title {
     background-color: yellow;
     color: black;
@@ -10,6 +15,9 @@
     color: rgba(0, 0, 0, 0.952);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 28px;
+    margin-left: 10px;
+    text-decoration: underline;
+    
 }
 .link-styled{
     font-size: 19px;
@@ -53,4 +61,14 @@
 .burger-image{
     height: 750px;
     width: 750px;
+}
+.list-container1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
 }
