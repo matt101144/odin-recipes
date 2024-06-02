@@ -24,7 +24,8 @@ body{
     
 }
 .link-styled{
-    font-size: 19px;
+    font-size: 22px;
+    padding: 4px;
 }
 .title1 {
     background-color: rgb(165, 148, 148);
